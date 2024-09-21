@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <link rel="stylesheet" href="../style.css">
+  </head>
+<body>
+      <div class="content">
+<center><img src="../img/logo.png" style="width:80%; height:175px;"></center>
+<h2>lorem ipsum</h2>
+
+    </div>
+  </div>
+</body>
+</html>

@@ -23,7 +23,7 @@ details summary::-webkit-details-marker {
 .racepic{
     float:right;
     padding-left: 25px;
-    padding-bottom: 5px;
+    padding-bottom: 5px;c
 }
 
 .sidebar{
@@ -121,10 +121,11 @@ td:first-child{
 }
 
 .classtable td{
-    font-size:large;
     border: 2px;
     border-style:solid;
     border-color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding:10px;
 }
 
 .jobtable {
